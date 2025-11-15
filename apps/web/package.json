@@ -2,7 +2,12 @@
 	"name": "web",
 	"private": true,
 	"type": "module",
+	"homepage": "https://YOUR_USERNAME.github.io/YOUR_REPO_NAME",
 	"scripts": {
+		"start": "npm run dev",
+  "build": "npm run dev",
+		"predeploy": "npm run build",
+"deploy": "gh-pages -d build",
 		"dev": "react-router dev",
 		"typecheck": "react-router typegen && tsc --noEmit"
 	},
