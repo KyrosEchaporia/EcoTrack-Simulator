@@ -1,7 +1,7 @@
 
-# 🌿 EcoScore — Sustainability Home Score App
+# 🌿 EcoTrack — Sustainability Home Score App
 
-EcoScore is a lightweight, responsive web app that calculates a **sustainability score** for a home and displays a personalized result with emoji, color themes, and a clean UI.
+EcoTrack is a lightweight, responsive web app that calculates a **sustainability score** for a home and displays a personalized result with emoji, color themes, and a clean UI.
 It also includes a **light/dark mode toggle with animated sun/moon icons** that stays fixed while scrolling.
 
 ---
